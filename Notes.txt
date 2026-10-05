@@ -1,0 +1,4 @@
+Welcome to Linux Commands
+This is Day 3 Practice.
+Changing the details in the file.
+This is the new change made to the file.
